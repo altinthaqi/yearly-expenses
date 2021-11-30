@@ -14,14 +14,14 @@
 
 **Download** the project as **ZIP** or **Clone** it via:
 
-## `https://github.com/altinthaqi/yearly-expenses.git`
+#### `https://github.com/altinthaqi/yearly-expenses.git`
 
 ### Install dependencies:
-## `npm install`
+#### `npm install`
 
 To start the project, go in the directory and run:
 
-## `npm start`
+#### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
